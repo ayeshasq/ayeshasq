@@ -56,8 +56,6 @@
 
 ![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeshasq&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayeshasq&theme=tokyonight)  
-
 ### 🔝 Most Used Languages (by preference & projects)  
 🟢 **Python** – scripting, automation, log analysis, ML security models  
 🔵 **C++** – systems programming, algorithms, performance-based tasks  
