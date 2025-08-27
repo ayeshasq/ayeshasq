@@ -66,9 +66,8 @@
 
 ---
 
-## 🚀 Current Projects  
-- 🛡️ **Mini-SIEM in Splunk** → dashboards for logins, network traffic, process monitoring  
-- 📖 **Threat Intelligence & SIEM Research** → MITRE ATT&CK-based detection models  
+## 🚀 Current Projects    
+- 📖 **Network Defense for Luna Bags** → Net defense for retail store-semester project  
 - 💻 **SQL Injection Detection Tool** → Python scripts + ML anomaly detection  
 
 ---
