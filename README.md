@@ -112,6 +112,10 @@
 - Threat hunting automation using MITRE ATT&CK + AI  
 
 ---
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayeshasq&theme=tokyo-night)
+
 
 ## 📫 Connect With Me  
 
