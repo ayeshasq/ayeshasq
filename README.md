@@ -103,13 +103,13 @@
 - 🔐 **RAG-Based Threat Intelligence Assistant**  
   AI system enriching SIEM alerts using CVEs, MITRE ATT&CK & incident data  
 
-- 📊 **AI-Assisted SIEM Alert Triage**  
-  ML + LLM-based alert prioritization to reduce false positives  
+- 📊 **AI-Log Analyser**  
+  https://security-log-analyzer-cyberproject.streamlit.app
 
-- 📖 **Network Defense for Luna Bags**  
+- 📖 **CTF Generator**  
   Splunk SIEM deployment with IDS, PCI-DSS compliance & incident workflows  
 
-- 💻 **SQL Injection Detection Tool**  
+- 💻 **Cyberpath**  
   Python + ML-based anomaly detection & log analysis  
 
 ---
