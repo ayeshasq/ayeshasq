@@ -100,17 +100,15 @@
 
 ## 🚀 Current & Featured Projects  
 
-- 🔐 **RAG-Based Threat Intelligence Assistant**  
-  AI system enriching SIEM alerts using CVEs, MITRE ATT&CK & incident data  
-
-- 📊 **AI-Log Analyser**  
+- 📊 **AI Log Analyser**  
   https://security-log-analyzer-cyberproject.streamlit.app
 
 - 📖 **CTF Generator**  
-  Splunk SIEM deployment with IDS, PCI-DSS compliance & incident workflows  
+  https://ctf-generator.vercel.app
+  
 
 - 💻 **Cyberpath**  
-  Python + ML-based anomaly detection & log analysis  
+  https://cyberpath-sigma.vercel.app   
 
 ---
 
