@@ -116,6 +116,9 @@
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayeshasq&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayeshasq&label=Profile%20Views&color=32CD32&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
