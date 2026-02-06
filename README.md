@@ -113,16 +113,17 @@
 ---
 
 ## 🔥 My Stats  
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayeshasq&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=ayeshasq&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayeshasq&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayeshasq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+</div>
 ---
 
 ## 📈 Contribution Activity  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayeshasq&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayeshasq&custom_title=Contribution%20Activity&theme=tokyo-night&hide_border=true)
 
 ---
 
