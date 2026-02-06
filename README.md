@@ -116,10 +116,8 @@
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayeshasq&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=ayeshasq&show_icons=true&theme=radical)
 
 </div>
----
 
 ## 📈 Contribution Activity  
 
@@ -131,8 +129,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-siddiqui-as44927n)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayeshasq)  
-📧 **as44927n@pace.edu**  
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-7B42BC?style=for-the-badge&logo=safari&logoColor=white)](https://myportfolio-iota-olive.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayesha_sq@live.in)
 ---
 
 ⭐ *Cybersecurity is not just about tools — it’s about mindset. Stay curious, stay secure.*
