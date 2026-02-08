@@ -1,5 +1,5 @@
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F2F3EF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ayesha;Cybersecurity+%2B+AI+Security+Engineer;SIEM+%7C+Threat+Intelligence+%7C+Incident+Response;RAG+%7C+LLM+Security+%7C+Security+Automation;Always+Building+Real-World+Security+Systems)](https://github.com/ayeshasq)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=48cfca&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ayesha+Siddiqui;Cybersecurity+%2B+AI+Security+Engineer;SIEM+%7C+Threat+Intelligence+%7C+Incident+Response;RAG+%7C+LLM+Security+%7C+Security+Automation;Always+Building+Real-World+Security+Systems)](https://github.com/ayeshasq)
 
 ---
 
